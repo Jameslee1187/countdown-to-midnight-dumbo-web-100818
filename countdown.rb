@@ -10,3 +10,4 @@ if n == 0
   puts "HAPPY NEW YEAR!"
 end
 end
+puts "HAPPY NEW YEAR!"
